@@ -1,5 +1,5 @@
 # ToeVpn
-java 服务器（内存一直增加，希望有人提供帮助），android客户端
+java 服务器，android客户端
 
 # 如何配置服务器（Ubuntu）
 
